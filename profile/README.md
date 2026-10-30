@@ -1,4 +1,5 @@
-<div align="center">  <img src="sumpyo.png" width="280" alt="숨표"/>
+<div align="center">  <img width="633" height="680" alt="image" src="https://github.com/user-attachments/assets/0d321052-f345-4883-8fe7-4c83e5de81be" />
+
 
 # 🫧 숨표 (Sumpyo)
 
