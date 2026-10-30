@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center">  <img src="sumpyo.png" width="280" alt="숨표"/>
 
-# 🌬️ 숨표 (Sumpyo)
+# 🫧 숨표 (Sumpyo)
 
 **강의실 공기가 나빠지기 전에, 미리 알려주는 서비스**
 
@@ -109,7 +109,7 @@ flowchart LR
 ## 🔗 바로가기
 
 - 서비스: https://sumpyo-sku.netlify.app
-- API 문서 (Swagger): `https://api.likelion.store/swagger-ui/index.html`
+- API 문서 (Swagger): https://api.likelion.store/swagger-ui/index.html
 - 예측 모델: [Sumpyo-ML](https://github.com/Sumpyo-SKU/Sumpyo-ML)
 
 <br/>
